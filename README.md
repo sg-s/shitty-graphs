@@ -39,3 +39,22 @@
 ### Shittiness 
 
 - Voters apparently trust that 50% is more than half
+- 50 + 35 = 100
+
+## The tories 
+
+![Screen Shot 2021-06-25 at 3 43 32 PM](https://user-images.githubusercontent.com/6005346/123477507-24a88280-d5cc-11eb-91e7-4de32b3ba7cd.png)
+
+### Shittiness 
+
+- Apparently 45% is more than half 
+- Also 45 + 39 = 100
+
+## The Sun
+
+![Screen Shot 2021-06-25 at 3 45 09 PM](https://user-images.githubusercontent.com/6005346/123477640-53bef400-d5cc-11eb-8d1e-10571ca58470.png)
+
+### Shittiness 
+
+- UKIP, with 0 seats, has a bigger slice than "others", with 22
+- The Lib Dems, with 14, has a bigger slice than the SNP with 34 
