@@ -58,3 +58,12 @@
 
 - UKIP, with 0 seats, has a bigger slice than "others", with 22
 - The Lib Dems, with 14, has a bigger slice than the SNP with 34 
+
+# T-mobile
+
+![n3brpa9ndf641](https://user-images.githubusercontent.com/6005346/123478371-5c63fa00-d5cd-11eb-99b6-94ca73edb6ea.jpg)
+
+
+### Shittiness 
+
+- Using the same color for two different things. 
