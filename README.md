@@ -1,5 +1,10 @@
 # shitty-graphs
 
+## Federal Reserve Bank of St. Louis
+
+
+![St-Louis-Fed-graph-China-military-spending](https://user-images.githubusercontent.com/6005346/214320530-8c114d61-95cd-43fa-929e-d5905285478c.jpg)
+
 ## CNN
 
 ![E4iLc-KWEAE27pv](https://user-images.githubusercontent.com/6005346/123475976-21ac9280-d5ca-11eb-8b3c-870c7a5130b7.jpg)
